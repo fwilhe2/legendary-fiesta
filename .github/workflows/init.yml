@@ -11,3 +11,6 @@ jobs:
     - name: DoSomething
       run: |
         find /home
+    - name: DoSomething
+      run: |
+        find /opt
